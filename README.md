@@ -16,6 +16,12 @@ Time complexity: O(n)
 Binary Search requires a sorted array because it divides the search space in half.
 Without sorting, it cannot correctly eliminate elements.
 
+
+Quick Sort performed faster than Bubble Sort in all cases.
+As the array size increased, Bubble Sort became significantly slower.
+Quick Sort handled large arrays much better.
+
+
 Challenges:
 - Understanding Quick Sort recursion
 - Measuring time correctly
